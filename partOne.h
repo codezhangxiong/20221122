@@ -1,1 +1,1 @@
-void printOK();
+void printOK(void);

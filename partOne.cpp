@@ -3,5 +3,5 @@
 
 void printOK()
 {
-    printf("OK\n");
+    printf("one  OK\n");
 }
