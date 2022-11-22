@@ -10,5 +10,7 @@ int main()
 
     printB();
 
+    printf("%d",add(123,321));
+
     return 0;
 }

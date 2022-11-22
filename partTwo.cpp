@@ -5,3 +5,8 @@ void printB()
 {
     printf("this is B!\n");
 }
+
+int add(int a,int b)
+{
+    return a + b;
+}
