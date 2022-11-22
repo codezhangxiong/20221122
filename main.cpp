@@ -6,6 +6,7 @@ int main()
 {
     printf("this is main!\n");
     printf("update B\n");
+    printf("update A\n");
 
     printOK();
 
